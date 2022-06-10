@@ -20,5 +20,6 @@ return [
     'page_not_found' => 'Page not found',
     'page_not_found_content' => 'Sorry we were unable to find the page you are looking for',
     'return_to_home' => 'Return to home',
-    'readythebible' => 'Ready the Bible'
+    'readythebible' => 'Ready the Bible',
+    'version_book' => ':version - Books'
 ];

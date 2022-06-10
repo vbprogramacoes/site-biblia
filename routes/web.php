@@ -33,7 +33,7 @@ Route::get('/sitemap-{version}.xml', [SitemapsController::class, 'version']);
 */
 Route::get('/', [HomeController::class, 'index']);
 Route::get('/{version}', [HomeController::class, 'version']);
-
+Route::get('/{version}/livros', [HomeController::class, 'livros']);
 /*
 |--------------------------------------------------------------------------
 | BOOK
