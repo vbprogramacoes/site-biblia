@@ -22,10 +22,18 @@ use App\Http\Controllers\VerseController;
 | Sitemaps
 |--------------------------------------------------------------------------
 */
+
+//SITEMAP 1.0
 Route::get('/sitemap-index.xml', [SitemapsController::class, 'index']);
 Route::get('/sitemap-{version}-{book}-compost-verses.xml', [SitemapsController::class, 'compostversion']);
 Route::get('/sitemap-{version}.xml', [SitemapsController::class, 'version']);
 
+//SITEMAP 2.0
+Route::get('/sitemap/version_index.xml', [SitemapsController::class, 'versionIndex']);
+Route::get('/sitemap/versions/{version}.xml', [SitemapsController::class, 'versions']);
+Route::get('/sitemap/versions/{version}/{book}.xml', [SitemapsController::class, 'books']);
+Route::get('/sitemap/versions/{version}/{book}/{chapter}.xml', [SitemapsController::class, 'verse']);
+Route::get('/sitemap/versions/{version}/{book}/compostChapter/{chapter}.xml', [SitemapsController::class, 'compostVerse']);
 /*
 |--------------------------------------------------------------------------
 | Home

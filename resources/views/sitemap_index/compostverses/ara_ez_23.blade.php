@@ -1,0 +1,7059 @@
+<?php echo '<?xml version="1.0" encoding="UTF-8"?>'; ?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+<url>
+<loc>{{ url("/ara/ez/23/1/2") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/3") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/4") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/5") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/6") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/1/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/3") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/4") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/5") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/6") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/2/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/4") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/5") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/6") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/3/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/5") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/6") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/4/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/6") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/5/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/7") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/6/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/8") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/7/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/9") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/8/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/10") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/9/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/11") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/10/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/12") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/11/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/13") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/12/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/14") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/13/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/15") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/14/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/16") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/15/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/17") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/16/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/18") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/17/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/19") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/18/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/20") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/19/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/21") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/20/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/22") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/21/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/23") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/22/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/24") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/23/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/25") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/24/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/26") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/25/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/27") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/26/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/28") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/27/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/29") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/28/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/30") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/29/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/31") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/30/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/32") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/31/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/33") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/32/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/34") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/33/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/35") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/34/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/36") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/35/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/37") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/36/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/38") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/37/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/39") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/38/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/40") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/39/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/41") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/40/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/42") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/41/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/43") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/42/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/44") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/43/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/44/45") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/44/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/44/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/44/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/44/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/45/46") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/45/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/45/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/45/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/46/47") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/46/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/46/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/47/48") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/47/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+<url>
+<loc>{{ url("/ara/ez/23/48/49") }}</loc>
+<lastmod>{{ date("Y-m-d") }}</lastmod>
+<changefreq>monthly</changefreq>
+<priority>1.0</priority>
+</url>
+</urlset>
